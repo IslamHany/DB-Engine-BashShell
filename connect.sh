@@ -24,4 +24,4 @@ else
 fi
 done
 
-. ./main.sh
+. ./main.sh 

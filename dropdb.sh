@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bash 
 echo -n "Please enter the database name that you want to drop:  "
 read name
 

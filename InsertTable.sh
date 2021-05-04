@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-function checkDataType(){
+function checkDataType(){ 
 	case "$1" in
 		"int") 
 			if [[ "$2" =~ ^-?[0-9]+$ ]];then

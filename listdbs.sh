@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-clear
+clear 
 index=1
 echo "#################################"
 for db in `ls dbs/`

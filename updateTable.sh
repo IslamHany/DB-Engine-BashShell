@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bash 
 typeset -i toNum
 getTableName #helper function to get table name
 

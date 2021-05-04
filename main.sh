@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bash 
 #checks if kdialog is installed or not
 installFlag=0 
 if ! command -v kdialog &> /dev/null

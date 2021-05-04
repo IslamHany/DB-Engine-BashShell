@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bash 
 clear
 title=$(kdialog --title "Table Name" --inputbox "What is the name of your Table?") 
 if [ -z "$title" ];then #check if cancel was clicked

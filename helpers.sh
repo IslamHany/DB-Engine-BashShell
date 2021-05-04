@@ -1,4 +1,4 @@
-function printMainMenu(){
+function printMainMenu(){ 
 	
 	echo "  ____            _       ____  ____  __  __ ____  
  | __ )  __ _ ___| |__   |  _ \| __ )|  \/  / ___| 
